@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512778645 source:d:\karim\project ds\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+
